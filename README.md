@@ -57,6 +57,6 @@ This project showcases interactive UI engineering, event-driven programming, and
 
 👨‍💻 Author
 
-Created an advanced interactive portfolio project.
+Created an advanced interactive portfolio project. 
 
 ---
