@@ -1,4 +1,4 @@
-🚀 AI Emoji Lab
+# 🚀 AI Emoji Sentiment Reactor
 
 AI Emoji Lab is an advanced interactive web application that simulates emotion detection, emoji fusion, mood prediction, and animated reactions in a futuristic UI. The project demonstrates creative logic building, user interaction, and dynamic front-end design using pure HTML, CSS, and JavaScript.
 
